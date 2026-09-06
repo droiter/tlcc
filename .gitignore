@@ -1,0 +1,17 @@
+# environments / bulk data
+pyenv/
+pylibs/
+__pycache__/
+*.pyc
+
+# large binary / raw data (regenerable or local-only)
+*.npz
+*.hdf
+*.h5
+*.log
+trader_nfq*
+universe.tsv
+idx_*.txt
+indices_report.tsv
+indices_report.txt
+_scan_tmp.txt
